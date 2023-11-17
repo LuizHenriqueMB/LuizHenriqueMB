@@ -16,7 +16,7 @@ Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenv
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
+<h2 align="center"> <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <div align="center" style=display: "inline_block">
 	 <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 	  <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -29,7 +29,7 @@ Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenv
 <br>
 <br>
 
-<h2 align="center">🛠️&ensp; <i>Sistemas Operacionais</i> &ensp;🛠️</h2>
+<h2 align="center"> <i>Sistemas Operacionais</i></h2>
 <div align="center" style=display: "inline_block">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -42,7 +42,7 @@ Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenv
   📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=merko"/>
 <p align="left">
   <img align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 </p>
