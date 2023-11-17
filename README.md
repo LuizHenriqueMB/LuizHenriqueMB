@@ -5,36 +5,44 @@
 </div>
 
 <p>
-Olá 👋, Eu sou Henrique e tenho 19 anos e atualmente estudo desenvolvimento web na Alura, e Defesa Cibernética na FIAP.
+Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenvolvimento web na Alura, e Defesa Cibernética na FIAP.
     
-- 🔭 Estou a procura da minha primeira oportunidade de trabalho.
+- 🚀 Estou à procura da minha primeira oportunidade de trabalho, tanto na área de desenvolvimento Front-end quanto em Defesa Cibernética. 🚀.
 </p>
 
----
-
-<div>
+<div  align="center" style="display: "inline_block">
+  <h2 align="center"> <i>Ｃｏｎｔａｔｏｓ</i> </h2>
   <a href="https:\\www.linkedin.com/in/henriquemoro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 </div>
 
----
+<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
+<div align="center" style=display: "inline_block">
+	 <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+	  <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+	  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+	  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  </div>
+<br>
+<br>
 
-## 🔥 Skills
-<div style="flex-basis: 48%;">
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<h2 align="center">🛠️&ensp; <i>Sistemas Operacionais</i> &ensp;🛠️</h2>
+<div align="center" style=display: "inline_block">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </div>
+<br>
+<br>
 
----
+<h2 align="center">
+
+  📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueMB&show_icons=true&theme=merko&layout=compact)
-
----
 
 <p align="left">
   <img align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
