@@ -42,8 +42,10 @@ Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenv
   📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueMB&show_icons=true&theme=merko&layout=compact)
+![Top )
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=dracula"/>
 <p align="left">
   <img align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 </p>
