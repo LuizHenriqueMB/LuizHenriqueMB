@@ -13,7 +13,7 @@ Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenv
 <div  align="center" style="display: "inline_block">
   <h2 align="center"> <i>Ｃｏｎｔａｔｏｓ</i> </h2>
   <a href="https:\\www.linkedin.com/in/henriquemoro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/LuizHenriqueMB" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 </div>
 
 <h2 align="center"> <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
