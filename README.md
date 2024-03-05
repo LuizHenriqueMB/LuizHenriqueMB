@@ -3,7 +3,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block"> Hello World</h1></summary>
 </div>
-
+<p align="left">
+  <img align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+</p>
 <p>
 Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenvolvimento web na Alura, e Defesa Cibernética na FIAP.
     
@@ -43,7 +45,5 @@ Olá 👋, Eu sou Henrique e tenho 19 anos e sou de SP! Atualmente estudo desenv
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=merko"/>
-<p align="left">
-  <img align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
-</p>
+
  
