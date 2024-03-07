@@ -39,7 +39,12 @@
 <h2>📍Portfolio</h2>
 - Em construção !
 
-
+<h2> 🚀 Meus projetos</h2>
+- https://github.com/LuizHenriqueMB/Test-banco-de-dados-py.git
+- https://github.com/LuizHenriqueMB/nlw-expert-notes.git
+- https://github.com/LuizHenriqueMB/numero-secreto.git
+- https://github.com/LuizHenriqueMB/java-rocket.git
+  
 <h2>📈Minhas atividades</h2>
 
  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
