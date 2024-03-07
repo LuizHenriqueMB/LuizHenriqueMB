@@ -40,10 +40,11 @@
 - Em construção !
 
 <h2> 🚀 Meus projetos</h2>
-- https://github.com/LuizHenriqueMB/Test-banco-de-dados-py.git
-- https://github.com/LuizHenriqueMB/nlw-expert-notes.git
-- https://github.com/LuizHenriqueMB/numero-secreto.git
-- https://github.com/LuizHenriqueMB/java-rocket.git
+
+https://github.com/LuizHenriqueMB/Test-banco-de-dados-py.git
+https://github.com/LuizHenriqueMB/nlw-expert-notes.git
+
+
   
 <h2>📈Minhas atividades</h2>
 
