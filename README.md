@@ -4,7 +4,8 @@
 - 🌱tenho 19 anos. 
 - 🔭 Apaixonado por tecnologia e programação.
 - ⚡Estudante de Defesa Cibernética (FIAP) 2/4.
-  
+
+
 <h2> 🔥 Minhas skills</h2>
 <div align="inline-block">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,10 +36,14 @@
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </div>
 
-<h2>⚡Minhas atividades</h2>
+<h2>📍Portfolio</h2>
+- Em construção !
+
+
+<h2>📈Minhas atividades</h2>
 
  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=merko"/>
 
 
 
