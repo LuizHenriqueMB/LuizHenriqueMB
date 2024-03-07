@@ -1,11 +1,11 @@
-<h1>Hello word, Eu sou o Henrique</h1> 
+<h1>Hello word👋, Eu sou o Henrique</h1> 
 <img align="right" src="https://raw.githubusercontent.com/gist/LuizHenriqueMB/570649cbbfe62a874fc265cf2ccbac63/raw/215310cd9bbe25943cc6c2695fe0d52a8609184c/githubcard.svg" />
 
-- tenho 19 anos. 
-- Apaixonado por tecnologia e programação.
-- Estudante de Defesa Cibernética (FIAP) 2/4.
+- 🌱tenho 19 anos. 
+- 🔭 Apaixonado por tecnologia e programação.
+- ⚡Estudante de Defesa Cibernética (FIAP) 2/4.
   
-<h2>Minhas skills</h2>
+<h2> 🔥 Minhas skills</h2>
 <div align="inline-block">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>
 
-<h2>Minhas redes sociais</h2>
+<h2> 👨‍💻 Minhas redes sociais</h2>
 <div align="inline-block">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
