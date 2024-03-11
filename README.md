@@ -28,8 +28,6 @@
   <a href="https://linkedin.com/in/henriquemoro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<h2>📍Portfolio</h2>
-- Em construção !
 
 <h2> 🚀 Meus projetos</h2>
 
