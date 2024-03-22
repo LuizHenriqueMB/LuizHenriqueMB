@@ -1,5 +1,4 @@
 <h1>Hello word👋, Eu sou o Henrique</h1> 
-<img align="right" src="https://raw.githubusercontent.com/gist/LuizHenriqueMB/dcae37b8510a3542e7c6a7e83107eff1/raw/3acdd6ec07b4f88339c0063671be43463eec7e2a/githubcard.svg" />
 
 - 🌱tenho 19 anos. 
 - 🔭 Apaixonado por tecnologia e programação.
@@ -36,8 +35,8 @@ https://github.com/LuizHenriqueMB/nlw-expert-notes.git
   
 <h2>📈Minhas atividades</h2>
 
-
-
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueMB&layout=compact&theme=merko)
 
 
 
