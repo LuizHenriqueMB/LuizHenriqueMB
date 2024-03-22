@@ -1,5 +1,5 @@
 <h1>Hello word👋, Eu sou o Henrique</h1> 
-<img align="right" src="https://raw.githubusercontent.com/gist/LuizHenriqueMB/1111db58de0f94d984e4c20c7ad18300/raw/694d5c89b2a30d99a70582c8b050e71de93a6f29/githubcard.svg" />
+<img align="right" src="https://raw.githubusercontent.com/gist/LuizHenriqueMB/fd097be020d5c5f9c966dab132c5afb0/raw/53e318b362493035f3b95261bc4050ecf3196f23/githubcard.svg" />
 - 🌱tenho 19 anos. 
 - 🔭 Apaixonado por tecnologia e programação.
 - ⚡Estudante de Defesa Cibernética (FIAP) 2/4.
