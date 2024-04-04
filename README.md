@@ -29,9 +29,9 @@
 
 <h2> 🚀 Meus projetos</h2>
 
-https://github.com/LuizHenriqueMB/Python-dados.git
-https://github.com/LuizHenriqueMB/nlw-expert-notes.git
-https://github.com/LuizHenriqueMB/nlw-unite-devops.git
+- https://github.com/LuizHenriqueMB/Python-dados.git
+- https://github.com/LuizHenriqueMB/nlw-expert-notes.git
+- https://github.com/LuizHenriqueMB/nlw-unite-devops.git
 
 
   
