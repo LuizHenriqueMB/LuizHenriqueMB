@@ -1,10 +1,9 @@
 <h1>Hello word👋, Eu sou o Henrique</h1> 
-<img align="right" src="https://raw.githubusercontent.com/gist/LuizHenriqueMB/8dbd18138d082b1ffc7a7ae313c5771d/raw/ca67721e89f12517bfcef1232df48913063e80be/githubcard.svg"/>
 
-- 🌱tenho 19 anos. 
-- 🔭 Apaixonado por tecnologia e programação.
-- ⚡Estudante de Defesa Cibernética (FIAP) 2/4.
-- 🚀 Futuro Site Reliability Engineering (SRE).
+
+- 🌱tenho 20 anos. 
+- 🔭 Sou um jovem de 20 anos apaixonado por tecnologia e sempre em busca de novos conhecimentos e desafios. Meu foco principal é me tornar um profissional em DevSecOps, onde posso unir minhas habilidades de desenvolvimento, segurança e operações para criar soluções robustas e seguras. Além disso, nas horas vagas, dedico-me a conhecer e estudar sobre o mundo da programação e UX design, buscando ampliar meu entendimento sobre a criação de experiências de usuário. Estou sempre em busca de oportunidades para crescer e contribuir com projetos inovadores e impactantes.
+- 🚀 Defesa Cibernética FIAP (3/4).
 
 
 <h2> 🔥 Minhas skills</h2>
