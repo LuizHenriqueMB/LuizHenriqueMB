@@ -3,7 +3,7 @@
 
 - 🌱tenho 20 anos.
 - 🚀 Defesa Cibernética FIAP (3/4). 
-- 🔭 Sou um jovem de 20 anos apaixonado por tecnologia e sempre em busca de novos conhecimentos e desafios. Meu foco principal é me tornar um profissional em DevSecOps, onde posso unir minhas habilidades de desenvolvimento, segurança e operações para criar soluções robustas e seguras. Além disso, nas horas vagas, dedico-me a conhecer e estudar sobre o mundo da programação e UX design, buscando ampliar meu entendimento sobre a criação de experiências de usuário. Estou sempre em busca de oportunidades para crescer e contribuir com projetos inovadores e impactantes.
+- 🔭 Sou um jovem de 20 anos apaixonado por tecnologia e sempre em busca de novos conhecimentos e desafios. Meu foco principal é me tornar um profissional em DevSecOps, onde posso unir minhas habilidades de desenvolvimento, segurança e operações para criar soluções robustas e seguras. Além disso, nas horas vagas, dedico-me a conhecer e a estudar sobre o mundo da programação buscando ampliar meu entendimento sobre a criação de sistemas de ponta a ponta.
   
 
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-<h2> 👨‍💻 Minhas redes sociais</h2>
+<h2> 👨‍💻 Contato </h2>
 <div align="inline-block">
   <a href="https://linkedin.com/in/henriquemoro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
