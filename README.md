@@ -3,7 +3,7 @@
 
 - 🌱tenho 20 anos.
 - 🚀 Defesa Cibernética FIAP (3/4). 
-- 🔭 Sou um jovem de 20 anos apaixonado por tecnologia e sempre em busca de novos conhecimentos e desafios. Meu foco principal é me tornar um profissional em DevSecOps, onde posso unir minhas habilidades de desenvolvimento, segurança e operações para criar soluções robustas e seguras. Além disso, nas horas vagas, dedico-me a conhecer e a estudar sobre o mundo da programação buscando ampliar meu entendimento sobre a criação de sistemas de ponta a ponta.
+- 🔭 Sou um entusiasta da tecnologia, constantemente em busca de novos conhecimentos e desafios. Meu principal objetivo é me tornar um profissional especializado em Cibersegurança, com ênfase na área ofensiva, atuando como Pentester, a fim de aprimorar a segurança das organizações por meio da identificação de vulnerabilidades.
   
 
 
