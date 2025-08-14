@@ -1,11 +1,11 @@
 <h1>Hello word👋, Eu sou o Henrique</h1> 
 
 
-- 🌱tenho 20 anos.
-- 🚀 Defesa Cibernética FIAP (3/4). 
-- 🔭 Sou um entusiasta da tecnologia, constantemente em busca de novos conhecimentos e desafios. Meu principal objetivo é me tornar um profissional especializado em Cibersegurança, com ênfase na área ofensiva, atuando como Pentester, a fim de aprimorar a segurança das organizações por meio da identificação de vulnerabilidades.
+- 🌱 tenho 21 anos.
+- 🎓 Graduado em Defesa Cibernética
+- 👾 Entusiasta em Segurança ofensiva e Desenvolvimento Seguro
+- 📚 Atualmente, concentro meus estudos e projetos em Pentest Web (com futura atuação também em mobile), integração de segurança em pipelines CI/CD, modelagem de ameaças, security code review e nas linguagens Python e Node.js. Paralelamente, aprofundo meus conhecimentos em cloud computing por meio de certificações como AWS Certified Cloud Practitioner e Oracle Cloud Infrastructure Certified Foundations Associate.
   
-
 
 <h2> 🔥 Minhas skills</h2>
 <div align="inline-block">
