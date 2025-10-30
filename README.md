@@ -2,8 +2,8 @@
 
 - 🌱 tenho 21 anos.
 - 🎓 Graduado em Defesa Cibernética
-- 👾 Entusiasta em Segurança ofensiva e Desenvolvimento Seguro
-- 📚 Atualmente, concentro meus estudos e projetos em Pentest Web (com futura atuação também em mobile), integração de segurança em pipelines CI/CD, modelagem de ameaças, security code review e nas linguagens Python e Node.js. Paralelamente, aprofundo meus conhecimentos em cloud computing por meio de certificações como a Oracle Cloud Infrastructure Certified Foundations Associate.
+- 👾 Pentester & entusiasta em Application Security.
+- 📚 Atualmente, direciono meus estudos e projetos para Pentest Web (com futura atuação também em mobile), integração de segurança em pipelines CI/CD, modelagem de ameaças, security code review e automação em Python. Paralelamente, estou em processo de certificação em DCPT e CPTS (todas em andamento), além de já possuir a Oracle Cloud Infrastructure Certified Foundations Associate.
 
   
 <h2>☠️ Linguagens e Tecnologias</h2>
