@@ -1,4 +1,5 @@
-<h1>Hello word👋, Eu sou o Henrique</h1> 
+<img width="820" height="200" alt="image" src="https://github.com/user-attachments/assets/0c75d9a8-a900-47b2-884b-881a18fba5b3" />
+<h1>Henrique</h1>
 
 - 🌱 tenho 21 anos.
 - 🎓 Graduado em Defesa Cibernética
