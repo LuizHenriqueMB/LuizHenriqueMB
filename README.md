@@ -1,10 +1,11 @@
-<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/0c75d9a8-a900-47b2-884b-881a18fba5b3" />
-<h1>Henrique</h1>
+<img  width="1000" height="300" src="https://github.com/user-attachments/assets/c4e4784e-2ad1-4396-ae6a-0fc0b36d3b85">
+
+<h1>Sobre mim</h1>
 
 - 🌱 tenho 21 anos.
-- 🎓 Graduado em Defesa Cibernética
-- 👾 Pentester & entusiasta em Application Security.
-- 📚 Atualmente, direciono meus estudos e projetos para Pentest Web (com futura atuação também em mobile), integração de segurança em pipelines CI/CD, modelagem de ameaças, security code review e automação em Python. Paralelamente, estou em processo de certificação em DCPT e CPTS (todas em andamento), além de já possuir a Oracle Cloud Infrastructure Certified Foundations Associate.
+- 🎓 Graduado em Defesa Cibernética (FIAP)
+- 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
+- 👾 Pentester & Application Security.
 
   
 <h2>☠️ Linguagens e Tecnologias</h2>
@@ -36,13 +37,6 @@
 <div align="inline-block">
   <a href="https://linkedin.com/in/henriquemoro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
-  
-<h2>📈Minhas atividades</h2>
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMB&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueMB&layout=compact&theme=merko)
-
 
 
 
