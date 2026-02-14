@@ -1,4 +1,4 @@
-<img  width="1000" height="300" src="https://github.com/user-attachments/assets/c4e4784e-2ad1-4396-ae6a-0fc0b36d3b85">
+<img  width="1000" height="250" src="https://github.com/user-attachments/assets/c4e4784e-2ad1-4396-ae6a-0fc0b36d3b85">
 
 <h1>Sobre mim</h1>
 
