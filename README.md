@@ -1,6 +1,6 @@
 <img  width="1000" height="250" src="https://github.com/user-attachments/assets/c4e4784e-2ad1-4396-ae6a-0fc0b36d3b85">
 
-<h1>Sobre mim</h1>
+<h1>🪶 Sobre mim</h1>
 
 - 🎓 Graduado em Defesa Cibernética (FIAP)
 - 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
@@ -30,7 +30,7 @@
 
 
 
-<h2> 👨‍💻 Contato e Perfis </h2>
+<h2>👨‍💻 Contato e Perfis </h2>
 <div align="inline-block">
   <a href="https://linkedin.com/in/henriquemoro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@henrique.mb" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
