@@ -5,7 +5,7 @@
 - 🎓 Graduado em Defesa Cibernética (FIAP)
 - 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
 - 👾 Pentester & Application Security.
-- 🎖️ CTF Player no TryHackMe, Hack The Box e Hacking Club.
+- 🎖️ CTF Player no TryHackMe, Hack The Box
 - 🏆TOP 3% TryHackMe 
 
 <h2>☠️ Linguagens e Tecnologias</h2>
