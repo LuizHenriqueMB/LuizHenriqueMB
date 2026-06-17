@@ -4,9 +4,10 @@
 
 - 🎓 Graduado em Defesa Cibernética (FIAP)
 - 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
-- 👾 Pentester & Application Security.
+- 📍 Certified Red Team Analyst (CRTA)
+- 👾 Pentester
 - 🎖️ CTF Player no TryHackMe, Hack The Box
-- 🏆TOP 3% TryHackMe 
+- 🏆TOP 3% TryHackMe
 
 <h2>☠️ Linguagens e Tecnologias</h2>
 
