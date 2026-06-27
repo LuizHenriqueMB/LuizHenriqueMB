@@ -4,10 +4,15 @@
 
 - 🎓 Graduado em Defesa Cibernética (FIAP)
 - 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
-- 📍 Certified Red Team Analyst (CRTA)
+- 📍 Possuo as certifcações, CRTA e WEB-RTA
 - 👾 Pentester
 - 🎖️ CTF Player no TryHackMe, Hack The Box
 - 🏆TOP 3% TryHackMe
+
+<h2>🚨 Certificações</h2>
+
+- Certified Web Red Team Analyst (Web-RTA)
+- Certified Red Team Analyst (CRTA)
 
 <h2>☠️ Linguagens e Tecnologias</h2>
 
@@ -29,8 +34,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 </div>
-
-
 
 <h2>👨‍💻 Contato e Perfis </h2>
 <div align="inline-block">
