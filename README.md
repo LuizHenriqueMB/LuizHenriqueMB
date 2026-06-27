@@ -6,7 +6,7 @@
 - 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
 - 📍 Possuo as certifcações, CRTA e WEB-RTA
 - 👾 Pentester
-- 🎖️ CTF Player no TryHackMe, Hack The Box
+- 🎖️ CTF Player no Hack The Box
 - 🏆TOP 3% TryHackMe
 
 <h2>☠️ Linguagens e Tecnologias</h2>
