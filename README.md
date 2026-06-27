@@ -9,11 +9,6 @@
 - 🎖️ CTF Player no TryHackMe, Hack The Box
 - 🏆TOP 3% TryHackMe
 
-<h2>🚨 Certificações</h2>
-
-- Certified Web Red Team Analyst (Web-RTA)
-- Certified Red Team Analyst (CRTA)
-
 <h2>☠️ Linguagens e Tecnologias</h2>
 
 <div align="inline-block">
