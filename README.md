@@ -4,7 +4,7 @@
 
 - 🎓 Graduado em Defesa Cibernética (FIAP)
 - 🎓 Cursando Pós-graduação em Offensive Security (FIAP)
-- 📍 Possuo as certifcações, CRTA e WEB-RTA
+- 📍 Possuo as certifcações, CRTA, WEB-RTA e MCRTA
 - 👾 Pentester
 - 🎖️ CTF Player no Hack The Box
 - 🏆TOP 3% TryHackMe
